@@ -3,6 +3,9 @@ Intel(R) Software Guard Extensions for Linux\* OS
 
 # linux-sgx-driver
 
+## Comments
+need to use sgx2 branch when installing on Azure VM and may need to upgrade the Ubuntu v18 to make it work.
+
 Introduction
 ------------
 Intel(R) Software Guard Extensions (Intel(R) SGX) is an Intel technology for application developers seeking to protect select code and data from disclosure or modification.
